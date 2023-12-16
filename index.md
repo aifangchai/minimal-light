@@ -24,15 +24,6 @@ layout: homepage
   助你啟程迎接命運的<strong>無限可能</strong>！<br>
 </p>
 
-<h2>News</h2>
-
-<ul>
-  <li><strong>[Feb. 2020]</strong> Our paper about incremental learning is accepted to CVPR 2020.</li>
-  <li><strong>[Feb. 2020]</strong> We will host the ACM Multimedia Asia 2020 conference in Singapore!</li>
-  <li><strong>[Sept. 2019]</strong> Our paper about few-shot learning is accepted to NeurIPS 2019.</li>
-  <li><strong>[Mar. 2019]</strong> Our paper about few-shot learning is accepted to CVPR 2019.</li>
-</ul>
-
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/discover.md %}
