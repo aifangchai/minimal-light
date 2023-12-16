@@ -9,3 +9,20 @@ body {
   font-weight:400;
   margin:0
 }
+
+/* Style for the description background with gold color */
+.description {
+  background-color: gold;
+  padding: 5px; /* Adjust the padding as needed */
+}
+
+/* Style to bold the num and title text */
+.num, .title {
+  font-weight: bold;
+}
+
+.logo {
+  max-width: 100%; /* Ensure the logo doesn't exceed its container */
+  display: block; /* Remove any default inline styles */
+  margin-bottom: 20px; /* Adjust the margin as needed */
+}

@@ -1,0 +1,25 @@
+main:
+
+  - num: 第一章
+    title: 三大天雷 人生總點
+    description: 就像一杯咖啡，讓你【清醒】迎接每一天的新挑戰
+
+  - num: 第二章
+    title: 輪位指南針
+    description: 就像你的【生活GPS】找到正確方向  
+
+  - num: 第三章
+    title: 鑰匙能量學
+    description: 就像一支【萬能筆】讓你重新改寫人生
+
+  - num: 第四章
+    title: 穿越人體七輪
+    description: 就像X射線 強透細胞 描述細胞大門 讓你重新改變奇蹟
+
+  - num: 第五章
+    title: 基因解碼
+    description: 讓您的【千里眼，順風耳】手機 為你隔空 連結 天地人網系統 導航您做出對的選擇
+
+  - num: 第六章
+    title: 能量品牌
+    description: 就像基因指紋 與大自然相連 創造獨一無二密碼武器 贏家就是你
